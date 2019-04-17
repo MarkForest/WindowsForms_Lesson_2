@@ -1,0 +1,5 @@
+1. git clone ссылка 
+2. git status // использовать для проверки состояния проекта
+3. git add .
+4. git commit -m "имя коммита"
+5. git push / git pull
